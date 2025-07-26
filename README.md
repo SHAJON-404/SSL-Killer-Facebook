@@ -14,7 +14,7 @@ Ideal for traffic inspection, reverse engineering, debugging, and educational an
 | Facebook         | All Versions           | ✅ Working   |
 | Messenger        | Under version **v250** | ✅ Working   |
 | Instagram        | Under version **v250** | ✅ Working   |
-| Business Suite   | Old ➜ Latest           | ✅ Working   |
+| Business Suite   | All Versions           | ✅ Working   |
 
 ---
 
